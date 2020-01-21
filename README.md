@@ -19,7 +19,10 @@ Endpoints for testing:
 
 ```http://localhost:4000/user/login```   logging a user, returns a token
 
-```http://localhost:4000/user/me```      validates user and returns a registered user
+```http://localhost:4000/user/me```      validates user and returns a registered user:
+
+![Insomnia test](/images/getme.png)
+Format: ![get test result]
 
 
 
